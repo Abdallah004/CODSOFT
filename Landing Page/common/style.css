@@ -1,0 +1,5 @@
+@import 'general.css';
+@import 'small.css' screen and (max-width: 320px);
+@import 'small.css' screen and (min-width: 320px) and (max-width: 766.99px);
+@import 'medium.css' screen and (min-width: 767px) and (max-width: 1199.99px);
+@import 'large.css' screen and (min-width: 1200px);
